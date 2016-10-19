@@ -1,6 +1,6 @@
 // You will need redis to be installed and running on default settings to run
 // this example without errors
-const debug = require('debug')('jsw:finished')
+const debug = require('debug')('jsw:index')
 const koa = require('koa')
 const hb = require('koa-handlebars')
 const static = require('koa-static')
